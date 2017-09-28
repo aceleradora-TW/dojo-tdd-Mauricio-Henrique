@@ -1,0 +1,15 @@
+{
+  "name": "dojo-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aceleradora-TW/dojo-tdd.git",
+  "author": "luizfetrindade <luiz.fetrindade@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test" : "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
